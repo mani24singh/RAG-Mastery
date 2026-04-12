@@ -52,4 +52,6 @@ TAVILY_API_KEY=" "
 
 
 - Deployed App: Document Search Engine
-  <video src="https://github.com/mani24singh/RAG-Mastery/blob/main/24.%20Document%20Search%20Engine%20App/assets/output_demo.mp4" width="100%" controls autoplay loop muted></video>
+
+<video 
+    src="https://github.com/mani24singh/RAG-Mastery/blob/main/24.%20Document%20Search%20Engine%20App/assets/output_demo.mp4" width="100%" controls autoplay loop muted></video>
