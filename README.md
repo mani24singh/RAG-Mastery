@@ -49,3 +49,7 @@ ASTRA_DB_APPLICATION_TOKEN=" "
 # AI Agents
 TAVILY_API_KEY=" "
 ```
+
+
+- Deployed App: Document Search Engine
+  <video src="https://github.com/yourusername/repo/assets/xxxx/xxxxxxxx.mp4" width="100%" controls autoplay loop muted></video>
