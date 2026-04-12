@@ -27,3 +27,25 @@ A complete end-to-end RAG learning repository covering fundamentals to advanced 
     - Select it once.
 
 - VS Code should remember this kernel for future notebooks in the same workspace.
+
+
+## Inorder to run notebooks and .py files in your system.
+1. Create a .env file in your system
+2. Add you LLM, Embeddings etc Keys for usage:
+```
+# LLMs
+OPENAI_API_KEY=" "
+GROQ_API_KEY=" "
+GOOGLE_API_KEY=" "
+
+# FrameWorks
+LANGSMITH_API_KEY=" "
+
+# Vector DBs
+PINECONE_API_KEY=" "
+ASTRA_DB_API_ENDPOINT=" "
+ASTRA_DB_APPLICATION_TOKEN=" "
+
+# AI Agents
+TAVILY_API_KEY=" "
+```
