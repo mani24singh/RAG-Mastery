@@ -51,8 +51,3 @@ TAVILY_API_KEY=" "
 ```
 
 
-## Deployed App: Document Search Engine
-
-https://github.com/user-attachments/assets/0b339ef3-936d-44aa-a82c-97f96b8850eb
-
-
