@@ -31,7 +31,7 @@ A complete end-to-end RAG learning repository covering fundamentals to advanced 
 
 ## Inorder to run notebooks and .py files in your system.
 1. Create a .env file in your system
-2. Add you LLM, Embeddings etc Keys for usage:
+2. Add your LLMs, Embeddings etc Keys for usage:
 ```
 # LLMs
 OPENAI_API_KEY=" "
@@ -49,3 +49,10 @@ ASTRA_DB_APPLICATION_TOKEN=" "
 # AI Agents
 TAVILY_API_KEY=" "
 ```
+
+
+## Deployed App: Document Search Engine
+
+https://github.com/user-attachments/assets/0b339ef3-936d-44aa-a82c-97f96b8850eb
+
+
