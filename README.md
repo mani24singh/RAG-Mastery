@@ -55,7 +55,6 @@ RAG-Mastery/
 ├── 21. ChatBot and RAG Evaluation/
 ├── 22. Introduction to Graph Databases and Cypher Query Language with Langchain/
 ├── 23. Practical Implementation with GraphDB with Langchain/
-├── .devcontainer/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
